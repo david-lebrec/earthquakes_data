@@ -1,0 +1,1144 @@
+{
+   "documentation" : "https://opencagedata.com/api",
+   "licenses" : [
+      {
+         "name" : "see attribution guide",
+         "url" : "https://opencagedata.com/credits"
+      }
+   ],
+   "rate" : {
+      "limit" : 2500,
+      "remaining" : 2498,
+      "reset" : 1614470400
+   },
+   "results" : [
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "49\u00b0 31' 15.90672'' N",
+               "lng" : "8\u00b0 43' 40.07064'' E"
+            },
+            "MGRS" : "32UMV8029885420",
+            "Maidenhead" : "JN49im75ib",
+            "Mercator" : {
+               "x" : 971573.962,
+               "y" : 6331225.859
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?way=39435855#map=17/49.52109/8.72780",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/49.52109/8.72780&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=49.52109&mlon=8.72780#map=17/49.52109/8.72780"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0y1wx53hrm7tybwrrkc",
+            "qibla" : 127.52,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "2",
+               "road_type" : "track",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406380,
+                  "astronomical" : 1614400020,
+                  "civil" : 1614404400,
+                  "nautical" : 1614402240
+               },
+               "set" : {
+                  "apparent" : 1614445440,
+                  "astronomical" : 1614451800,
+                  "civil" : 1614447360,
+                  "nautical" : 1614449580
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "d\u00e9jouons.fratrie.radieusement"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.5256386,
+               "lng" : 8.7338855
+            },
+            "southwest" : {
+               "lat" : 49.5193301,
+               "lng" : 8.7250293
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "road",
+            "_type" : "road",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Rhein-Neckar-Kreis",
+            "political_union" : "European Union",
+            "postcode" : "69517",
+            "road" : "2",
+            "road_type" : "track",
+            "state" : "Bade-Wurtemberg",
+            "town" : "Weinheim",
+            "village" : "Oberflockenbach"
+         },
+         "confidence" : 9,
+         "formatted" : "2, 69517 Weinheim, Allemagne",
+         "geometry" : {
+            "lat" : 49.5210852,
+            "lng" : 8.7277974
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "49\u00b0 40' 54.62760'' N",
+               "lng" : "8\u00b0 37' 2.80920'' E"
+            },
+            "MGRS" : "32UMA7240303327",
+            "Maidenhead" : "JN49hq43cp",
+            "Mercator" : {
+               "x" : 959289.812,
+               "y" : 6358759.802
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?way=38657234#map=17/49.68184/8.61745",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/49.68184/8.61745&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=49.68184&mlon=8.61745#map=17/49.68184/8.61745"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0y4sh719n6jqtm6f8xg",
+            "qibla" : 127.55,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Bensheim Bahnhof (Stg. 2)",
+               "road_type" : "platform",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406380,
+                  "astronomical" : 1614400020,
+                  "civil" : 1614404460,
+                  "nautical" : 1614402240
+               },
+               "set" : {
+                  "apparent" : 1614445440,
+                  "astronomical" : 1614451860,
+                  "civil" : 1614447360,
+                  "nautical" : 1614449580
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "publions.kal\u00e9idoscope.pi\u00e9destaux"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.6819423,
+               "lng" : 8.6176189
+            },
+            "southwest" : {
+               "lat" : 49.681841,
+               "lng" : 8.617447
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "road",
+            "_type" : "road",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Kreis Bergstra\u00dfe",
+            "political_union" : "European Union",
+            "postcode" : "64625",
+            "road" : "Bensheim Bahnhof (Stg. 2)",
+            "road_type" : "platform",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Bensheim"
+         },
+         "confidence" : 9,
+         "formatted" : "Bensheim Bahnhof (Stg. 2), 64625 Bensheim, Allemagne",
+         "geometry" : {
+            "lat" : 49.681841,
+            "lng" : 8.617447
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "49\u00b0 55' 57.84672'' N",
+               "lng" : "8\u00b0 37' 39.17712'' E"
+            },
+            "MGRS" : "32UMA7327031218",
+            "Maidenhead" : "JN49hw53hu",
+            "Mercator" : {
+               "x" : 960414.379,
+               "y" : 6401916.034
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?way=223817019#map=17/49.93274/8.62755",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/49.93274/8.62755&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=49.93274&mlon=8.62755#map=17/49.93274/8.62755"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yhh3frk2qzvt38dht1",
+            "qibla" : 127.82,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Wolfsgartenallee",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406380,
+                  "astronomical" : 1614400020,
+                  "civil" : 1614404460,
+                  "nautical" : 1614402240
+               },
+               "set" : {
+                  "apparent" : 1614445440,
+                  "astronomical" : 1614451860,
+                  "civil" : 1614447360,
+                  "nautical" : 1614449580
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "hacheur.ing\u00e9nuit\u00e9.cirque"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 49.9327986,
+               "lng" : 8.6276997
+            },
+            "southwest" : {
+               "lat" : 49.9326843,
+               "lng" : 8.6273986
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "building",
+            "_type" : "building",
+            "city" : "Darmstadt",
+            "city_district" : "Wixhausen",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "64331",
+            "road" : "Wolfsgartenallee",
+            "state" : "Hesse",
+            "state_code" : "HE"
+         },
+         "confidence" : 10,
+         "formatted" : "Wolfsgartenallee 2, 64331 Darmstadt, Allemagne",
+         "geometry" : {
+            "lat" : 49.9327352,
+            "lng" : 8.6275492
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 27.24768'' N",
+               "lng" : "9\u00b0 13' 22.18908'' E"
+            },
+            "MGRS" : "32UNA1590061733",
+            "Maidenhead" : "JO40oe69rt",
+            "Mercator" : {
+               "x" : 1026680.773,
+               "y" : 6449450.151
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?node=1395828621#map=17/50.20757/9.22283",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20757/9.22283&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20757&mlon=9.22283#map=17/50.20757/9.22283"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9u5b790tyug94h5m",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Kremp'sche Spitze",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "cr\u00e9pisse.cong\u00e9lation.pr\u00e9visionnel"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2076188,
+               "lng" : 9.2228803
+            },
+            "southwest" : {
+               "lat" : 50.2075188,
+               "lng" : 9.2227803
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "financial",
+            "_type" : "bank",
+            "bank" : "Sparkasse",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Kremp'sche Spitze",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 9,
+         "formatted" : "Sparkasse, Kremp'sche Spitze 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2075688,
+            "lng" : 9.2228303
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 27.99216'' N",
+               "lng" : "9\u00b0 13' 23.39400'' E"
+            },
+            "MGRS" : "32UNA1592461756",
+            "Maidenhead" : "JO40oe69su",
+            "Mercator" : {
+               "x" : 1026718.031,
+               "y" : 6449486.021
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?node=527832289#map=17/50.20778/9.22316",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20778/9.22316&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20778&mlon=9.22316#map=17/50.20778/9.22316"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9uh17rdr9079v626",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Kremp'sche Spitze",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "assembler.miaulant.m\u00e2choire"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2078256,
+               "lng" : 9.223215
+            },
+            "southwest" : {
+               "lat" : 50.2077256,
+               "lng" : 9.223115
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "commerce",
+            "_type" : "shop",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Kremp'sche Spitze",
+            "shop" : "Mode Flach",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 9,
+         "formatted" : "Mode Flach, Kremp'sche Spitze 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2077756,
+            "lng" : 9.223165
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 26.98020'' N",
+               "lng" : "9\u00b0 13' 22.61964'' E"
+            },
+            "MGRS" : "32UNA1590961725",
+            "Maidenhead" : "JO40oe69st",
+            "Mercator" : {
+               "x" : 1026694.089,
+               "y" : 6449437.272
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?way=42299798#map=17/50.20749/9.22295",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20749/9.22295&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20749&mlon=9.22295#map=17/50.20749/9.22295"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9ggzy73fvp7uxf8y",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Kremp'sche Spitze",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "humaniste.macler.int\u00e9ressement"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2078838,
+               "lng" : 9.22357
+            },
+            "southwest" : {
+               "lat" : 50.207097,
+               "lng" : 9.2223251
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "building",
+            "_type" : "building",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Kremp'sche Spitze",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 10,
+         "formatted" : "Kremp'sche Spitze 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2074945,
+            "lng" : 9.2229499
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 26.67024'' N",
+               "lng" : "9\u00b0 13' 20.57232'' E"
+            },
+            "MGRS" : "32UNA1586861715",
+            "Maidenhead" : "JO40oe69qs",
+            "Mercator" : {
+               "x" : 1026630.779,
+               "y" : 6449422.328
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?node=527833441#map=17/50.20741/9.22238",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20741/9.22238&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20741&mlon=9.22238#map=17/50.20741/9.22238"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9ggx353c4fmqh53b",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Kremp'sche Spitze",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "r\u00e9signataire.inclinons.hypnotiseur"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2074584,
+               "lng" : 9.2224312
+            },
+            "southwest" : {
+               "lat" : 50.2073584,
+               "lng" : 9.2223312
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "commerce",
+            "_type" : "shop",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Kremp'sche Spitze",
+            "shop" : "B\u00e4ckerei Naumann",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 9,
+         "formatted" : "B\u00e4ckerei Naumann, Kremp'sche Spitze 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2074084,
+            "lng" : 9.2223812
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 26.89200'' N",
+               "lng" : "9\u00b0 13' 20.92548'' E"
+            },
+            "MGRS" : "32UNA1587561722",
+            "Maidenhead" : "JO40oe69qt",
+            "Mercator" : {
+               "x" : 1026641.7,
+               "y" : 6449433.013
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?node=527832280#map=17/50.20747/9.22248",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20747/9.22248&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20747&mlon=9.22248#map=17/50.20747/9.22248"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9ggxeqfbx9je7mm0",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Kremp'sche Spitze",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "platinant.publiciste.citrique"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.20752,
+               "lng" : 9.2225293
+            },
+            "southwest" : {
+               "lat" : 50.20742,
+               "lng" : 9.2224293
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "commerce",
+            "_type" : "shop",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Kremp'sche Spitze",
+            "shop" : "Miller Partyservice & Fleischerei",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 9,
+         "formatted" : "Miller Partyservice & Fleischerei, Kremp'sche Spitze 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.20747,
+            "lng" : 9.2224793
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 27.26964'' N",
+               "lng" : "9\u00b0 13' 22.79352'' E"
+            },
+            "MGRS" : "32UNA1591261734",
+            "Maidenhead" : "JO40oe69st",
+            "Mercator" : {
+               "x" : 1026699.463,
+               "y" : 6449451.209
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?node=527832284#map=17/50.20757/9.22300",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20757/9.22300&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20757&mlon=9.22300#map=17/50.20757/9.22300"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9u5br6mfm15w65mn",
+            "qibla" : 128.86,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Birsteiner Stra\u00dfe",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "successoral.capsulaire.m\u00e9diatisation"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2076249,
+               "lng" : 9.2230482
+            },
+            "southwest" : {
+               "lat" : 50.2075249,
+               "lng" : 9.2229482
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "commerce",
+            "_type" : "shop",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Birsteiner Stra\u00dfe",
+            "shop" : "Blumen Selke",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 9,
+         "formatted" : "Blumen Selke, Birsteiner Stra\u00dfe 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2075749,
+            "lng" : 9.2229982
+         }
+      },
+      {
+         "annotations" : {
+            "DMS" : {
+               "lat" : "50\u00b0 12' 13.97340'' N",
+               "lng" : "9\u00b0 12' 51.89256'' E"
+            },
+            "MGRS" : "32UNA1530161321",
+            "Maidenhead" : "JO40oe58rw",
+            "Mercator" : {
+               "x" : 1025743.939,
+               "y" : 6448810.593
+            },
+            "OSM" : {
+               "edit_url" : "https://www.openstreetmap.org/edit?way=146946767#map=17/50.20388/9.21441",
+               "note_url" : "https://www.openstreetmap.org/note/new#map=17/50.20388/9.21441&layers=N",
+               "url" : "https://www.openstreetmap.org/?mlat=50.20388&mlon=9.21441#map=17/50.20388/9.21441"
+            },
+            "UN_M49" : {
+               "regions" : {
+                  "DE" : "276",
+                  "EUROPE" : "150",
+                  "WESTERN_EUROPE" : "155",
+                  "WORLD" : "001"
+               },
+               "statistical_groupings" : [
+                  "MEDC"
+               ]
+            },
+            "callingcode" : 49,
+            "currency" : {
+               "alternate_symbols" : [],
+               "decimal_mark" : ",",
+               "html_entity" : "&#x20AC;",
+               "iso_code" : "EUR",
+               "iso_numeric" : "978",
+               "name" : "Euro",
+               "smallest_denomination" : 1,
+               "subunit" : "Cent",
+               "subunit_to_unit" : 100,
+               "symbol" : "\u20ac",
+               "symbol_first" : 0,
+               "thousands_separator" : "."
+            },
+            "flag" : "\ud83c\udde9\ud83c\uddea",
+            "geohash" : "u0yt9emdz3v6rct16mgq",
+            "qibla" : 128.85,
+            "roadinfo" : {
+               "drive_on" : "right",
+               "road" : "Zum Taubengarten",
+               "speed_in" : "km/h"
+            },
+            "sun" : {
+               "rise" : {
+                  "apparent" : 1614406260,
+                  "astronomical" : 1614399840,
+                  "civil" : 1614404340,
+                  "nautical" : 1614402120
+               },
+               "set" : {
+                  "apparent" : 1614445260,
+                  "astronomical" : 1614451740,
+                  "civil" : 1614447240,
+                  "nautical" : 1614449460
+               }
+            },
+            "timezone" : {
+               "name" : "Europe/Berlin",
+               "now_in_dst" : 0,
+               "offset_sec" : 3600,
+               "offset_string" : "+0100",
+               "short_name" : "CET"
+            },
+            "what3words" : {
+               "words" : "vertement.officiellement.universaliser"
+            }
+         },
+         "bounds" : {
+            "northeast" : {
+               "lat" : 50.2039683,
+               "lng" : 9.2145561
+            },
+            "southwest" : {
+               "lat" : 50.2037867,
+               "lng" : 9.2142579
+            }
+         },
+         "components" : {
+            "ISO_3166-1_alpha-2" : "DE",
+            "ISO_3166-1_alpha-3" : "DEU",
+            "_category" : "building",
+            "_type" : "building",
+            "continent" : "Europe",
+            "country" : "Allemagne",
+            "country_code" : "de",
+            "county" : "Main-Kinzig-Kreis",
+            "house_number" : "2",
+            "political_union" : "European Union",
+            "postcode" : "63571",
+            "road" : "Zum Taubengarten",
+            "state" : "Hesse",
+            "state_code" : "HE",
+            "town" : "Gelnhausen",
+            "village" : "Haitz"
+         },
+         "confidence" : 10,
+         "formatted" : "Zum Taubengarten 2, 63571 Gelnhausen, Allemagne",
+         "geometry" : {
+            "lat" : 50.2038815,
+            "lng" : 9.2144146
+         }
+      }
+   ],
+   "status" : {
+      "code" : 200,
+      "message" : "OK"
+   },
+   "stay_informed" : {
+      "blog" : "https://blog.opencagedata.com",
+      "twitter" : "https://twitter.com/OpenCage"
+   },
+   "thanks" : "For using an OpenCage API",
+   "timestamp" : {
+      "created_http" : "Sat, 27 Feb 2021 20:15:46 GMT",
+      "created_unix" : 1614456946
+   },
+   "total_results" : 10
+}

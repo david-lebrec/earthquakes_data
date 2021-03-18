@@ -1,0 +1,100 @@
+{
+  "documentation": "https://opencagedata.com/api",
+  "licenses": [
+    {
+      "name": "see attribution guide",
+      "url": "https://opencagedata.com/credits"
+    }
+  ],
+  "rate": {
+    "limit": 2500,
+    "remaining": 2496,
+    "reset": 1614384000
+  },
+  "results": [
+    {
+      "annotations": {
+        "DMS": {
+          "lat": "19\u00b0 14' 45.60000'' N",
+          "lng": "145\u00b0 36' 57.60000'' E"
+        },
+        "MGRS": "55QCB5453828626",
+        "Maidenhead": "QK29tf39wa",
+        "Mercator": {
+          "x": 16209898.971,
+          "y": 2169842.325
+        },
+        "OSM": {
+          "note_url": "https://www.openstreetmap.org/note/new#map=16/19.24600/145.61600&layers=N",
+          "url": "https://www.openstreetmap.org/?mlat=19.24600&mlon=145.61600#map=16/19.24600/145.61600"
+        },
+        "geohash": "x5rt3xdk4drmftrbuprn",
+        "qibla": 295.56,
+        "roadinfo": {
+          "drive_on": "right",
+          "speed_in": "km/h"
+        },
+        "sun": {
+          "rise": {
+            "apparent": 1614372000,
+            "astronomical": 1614367680,
+            "civil": 1614370680,
+            "nautical": 1614369180
+          },
+          "set": {
+            "apparent": 1614327660,
+            "astronomical": 1614332040,
+            "civil": 1614328980,
+            "nautical": 1614330480
+          }
+        },
+        "timezone": {
+          "name": "GMT-10",
+          "now_in_dst": 0,
+          "offset_sec": 36000,
+          "offset_string": 1000,
+          "short_name": "GMT-10"
+        },
+        "what3words": {
+          "words": "messily.backflips.homebuilding"
+        },
+        "wikidata": "Q159183"
+      },
+      "bounds": {
+        "northeast": {
+          "lat": 34.5970415,
+          "lng": 147.3046875
+        },
+        "southwest": {
+          "lat": 4.7406754,
+          "lng": 121.9042969
+        }
+      },
+      "components": {
+        "_category": "natural/water",
+        "_type": "body_of_water",
+        "body_of_water": "mer des Philippines"
+      },
+      "confidence": 1,
+      "formatted": "mer des Philippines",
+      "geometry": {
+        "lat": 19.246,
+        "lng": 145.616
+      }
+    }
+  ],
+  "status": {
+    "code": 200,
+    "message": "OK"
+  },
+  "stay_informed": {
+    "blog": "https://blog.opencagedata.com",
+    "twitter": "https://twitter.com/OpenCage"
+  },
+  "thanks": "For using an OpenCage API",
+  "timestamp": {
+    "created_http": "Fri, 26 Feb 2021 07:20:59 GMT",
+    "created_unix": 1614324059
+  },
+  "total_results": 1
+}
